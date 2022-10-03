@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-I am a back-end web developer and architect with 20+ years experience, mostly working in Python and Django.
+I am a senior backend developer / architect with 20+ years experience, mostly working in Python and Django.
 
 I help building extraordinary web experiences at <a href="https://github.com/cruncher/">Cruncher</a>.
 

@@ -1,4 +1,9 @@
-### Hi there 👋
+#### Hi there 👋
+
+I am a back-end web developer and architect with 20+ years experience, mostly working in Python and Django.
+
+I help building extraordinary web experiences at <a href="https://github.com/cruncher/">Cruncher</a>.
+
 
 <!--
 **mbi/mbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

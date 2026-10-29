@@ -4,8 +4,6 @@ I am a senior backend developer / architect with 20+ years experience, mostly wo
 
 I help building extraordinary web experiences at <a href="https://github.com/cruncher/">Cruncher</a>.
 
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbi&show_icons=true&theme=transparent&hide_title=true)
-
 
 <!--
 **mbi/mbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
